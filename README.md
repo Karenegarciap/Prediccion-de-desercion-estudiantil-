@@ -1,2 +1,5 @@
 # Prediccion-de-desercion-estudiantil-
-Predicción de deserción estudiantil 
+proyecto  " prediccion de desercion estudiantil"
+
+Karen Eliana Garcia Perez, Cc. 1001296009, Ingenieria Civil 
+
